@@ -24,6 +24,6 @@ UNESCO人工智能网上审议-智能化教育
 【参考资料】
 * 中文版UNESCO草案：https://unesdoc.unesco.org/ark:/48223/pf0000373434_chi
 * 审议指南：https://opendialogueonai.com/wp-content/uploads/2020/07/MAN_Delib.pdf
-* 审议研讨会审议议题以及相关草案条目：
+* [审议研讨会审议议题以及相关草案条目](docs/MAN_Education_themes.pdf)
 
 
