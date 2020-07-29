@@ -7,7 +7,7 @@
 
 【会前准备】
 * [ ] 确定会议具体时间 （[https://lettucemeet.com/l/k7pEY](https://lettucemeet.com/l/k7pEY)）
-* [ ] 评议员签订 信息收集与传播 知情同意书
+* [ ] 评议员签订 信息收集与传播 [《知情同意书》](docs/MAN_Consent.pdf)
 * [ ] zoom会议链接
 
 【评议会流程】 （[英文长版](docs/ENG_Anim.pdf)）
