@@ -27,4 +27,7 @@
 * [审议研讨会审议议题以及相关草案条目](docs/MAN_Education_themes.pdf)
 * [审议研讨会审议议题以及相关草案条目 长版](docs/EN_Edu_Comp.pdf)
 
+【总结报告】
+* [总结报告](docs/EN_ReportQuestions.pdf)
+
 
