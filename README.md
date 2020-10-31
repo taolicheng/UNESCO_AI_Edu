@@ -2,6 +2,7 @@
 ## UNESCO人工智能网上审议-智能化教育
 
 项目网址： [https://opendialogueonai.com/](https://opendialogueonai.com/)
+Analysis Report: [https://opendialogueonai.com/wp-content/uploads/2020/08/RAPPORT_DialogueOnAIethics_ENG_v2.pdf](https://opendialogueonai.com/wp-content/uploads/2020/08/RAPPORT_DialogueOnAIethics_ENG_v2.pdf)
 
 【志愿者招募】联合国教科文组织（UNESCO）最近发起了一项人工智能道德伦理的[全球标准制定计划](https://zh.unesco.org/artificial-intelligence/ethics)。其中由蒙特利尔Mila人工智能实验室、Algora 实验室和蒙特利尔大学负责的公民审议活动目前中国分队招募（中国）审议志愿参与者 6- 10 名。此次研讨会将收集参与者对于人工智能在“智能教育”中的道德标准的意见。研讨会采取线上的形式（zoom meeting）以中文进行，历时2小时40分钟。研讨会将在7月30 - 8月6日之间选取合适时间举行（具体时间将尽量考虑到所有参与者的时间表）。参与者不需要有人工智能的技术背景，我们欢迎来自各个行业、年龄、教育背景、以及性别的参与者。
 
@@ -31,6 +32,6 @@
 【总结报告】
 * [会议内容](https://docs.google.com/presentation/d/19H94_4bcJ5PKXRFaL7OgToA5csWv8XQw1VZt7fQa42o/edit?usp=sharing)
 * [Summary Report](https://docs.google.com/document/d/1LQIbGThrw0yVmy2O_UPi_ulIlcyqOQh17kFDp9e-4ww/edit?usp=sharing)
-
+* [Official Summary Report from Algora Lab and Mila](https://opendialogueonai.com/wp-content/uploads/2020/08/RAPPORT_DialogueOnAIethics_ENG_v2.pdf)
 
 
